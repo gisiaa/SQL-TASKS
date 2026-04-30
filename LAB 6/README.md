@@ -1,4 +1,4 @@
-# POLECENIA DML
+# TWORZENIE I MODYFIKACJA TABEL
 
 Napisz zapytanie w języku SQL do bazy danych. **Oracle SQL: bez wskazywania schemy!**
 
